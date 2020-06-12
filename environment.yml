@@ -1,0 +1,13 @@
+name: AcP
+channels:
+  - pytorch
+  - kne
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.5.2=0
+  - python-dateutil=2.6.1=py35_0
+  - opencv==3.1.0
+  - pandas==0.23.4
+  - pip:
+    - networkx==2.3

@@ -1,0 +1,9 @@
+name: r4r
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - numpy=1.13.1
+  - networkx=2.2
+
+# conda install pytorch=1.0.0 cuda100 -c pytorch
