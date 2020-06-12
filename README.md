@@ -45,7 +45,7 @@ cd ..
 ```
 bash download_speaker_release.sh
 ```
-### Train the model/agent
+### Train the model/agent using Random Walk Data Augmentation
 ```
 bash run_w_params.sh
 ```
